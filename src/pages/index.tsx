@@ -21,7 +21,7 @@ export default function IndexPage() {
   const renderHead = (
     <Stack spacing={2} sx={{ textAlign: 'center' }}>
       <Typography variant="h5" component="h1" sx={{ fontWeight: 'fontWeightBold' }}>
-        The starting point for your next project v5.0.0
+        Punto de entrada del proyecto
       </Typography>
 
       <Typography variant="body2">
